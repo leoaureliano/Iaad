@@ -1,0 +1,1 @@
+Bancos de dados é uma estrutura de dados, informações, que ajudam nas  escolhas tomadas nas empresas e sistema de gerenciamento de bancos de dados é o sistema  responsavel pelo gerenciamento de um banco de dados ele altera, armazena e deleta partes do banco de dados.
