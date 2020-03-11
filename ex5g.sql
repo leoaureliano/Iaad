@@ -1,0 +1,1 @@
+SELECT  AVG(numero_pedido) [AS media] FROM  pedidos
